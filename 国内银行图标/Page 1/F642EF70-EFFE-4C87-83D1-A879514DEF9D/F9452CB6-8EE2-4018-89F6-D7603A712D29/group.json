@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9452CB6-8EE2-4018-89F6-D7603A712D29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B9E12D2-4C8E-4B82-9A58-695784C0DD16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00CC1FA0-DA7E-41E8-A87A-1F0CB64ECAB7",
+    "height": 38,
+    "width": 71,
+    "x": 834,
+    "y": 2429
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9F0D1111-7798-4104-9819-B4E6DF7F744A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AD083C5E-ACB9-489D-A453-36079A8837E3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "159677FB-0130-42AF-92EE-B04A2FFF4F3F"
+    }
+  ],
+  "name": "长沙银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3A2255C0-95D3-404B-98ED-62C49E0044DC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.4,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "94B05EB5-3AA8-47A3-AF93-AB14B85FA1C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

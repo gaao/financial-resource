@@ -1,0 +1,96 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C2FBCE9-ACC9-407B-B81B-A5C428CDD6C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "607C0855-631F-4EED-8673-CE8CA86ECF6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C07656A4-E570-4D5A-B824-B6AD9B940213",
+    "height": 67.55813953488372,
+    "width": 69.18604651162791,
+    "x": 834.4069767441861,
+    "y": 1374
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BEE22894-E96F-4F16-AB71-23E6C9E7363E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9D044ABD-BCDE-4502-A444-C95EE1539FAD"
+    },
+    {
+      "class": "shapePath",
+      "id": "664D7E2E-3DFD-4BDB-AD0B-AFF1E846CCDA"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9E03AD5-D566-45B4-9B04-695F3FF5E94D"
+    },
+    {
+      "class": "shapePath",
+      "id": "B37B6A72-FF02-4A30-AE01-8B3EB0D7839D"
+    },
+    {
+      "class": "shapePath",
+      "id": "4ECFE8AA-BC3E-41E7-9CC4-468A14374650"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FDEF729-2E12-49C0-835D-4DE80DD0A3D9"
+    }
+  ],
+  "name": "徽商银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E53A093A-969E-4182-8A92-E84EA618D981",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

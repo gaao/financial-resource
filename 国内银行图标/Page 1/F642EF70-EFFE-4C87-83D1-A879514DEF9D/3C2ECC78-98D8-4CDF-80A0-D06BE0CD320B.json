@@ -1,0 +1,85 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "3C2ECC78-98D8-4CDF-80A0-D06BE0CD320B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F39B8134-7366-4384-868A-6A8A7B5C9B8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C203F5CB-D572-4581-943B-24DF281A5576",
+    "height": 2848,
+    "width": 471,
+    "x": 320,
+    "y": 227
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/661dd03501f11c344ceba3b8925a6de4542134d4.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "屏幕快照 2019-05-06 下午2.29.04",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2FD8D95A-C2C3-498E-97BE-60839286C03A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 33.9,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9DEA2164-1FCC-45C9-BCCD-6B595AF0978F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 2848,
+            "enabled": 1,
+            "modelID": "constraint_61a9cd3c-2801-4cb2-b0c3-ebb72e168080",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 471
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3e0cc49a-370a-4ba9-a529-456be2057b8a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1BD2A960-CD70-49DA-A757-D22DB04CCFF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8022387-C48A-4381-88A4-AD2F5954C53D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3B386CA-D681-4C70-A81D-6EF2BE7CB7E2",
+    "height": 75,
+    "width": 1017,
+    "x": 977,
+    "y": 710
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0FD820C2-283C-47B7-B19D-8EB1367BBFA0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FD84D090-2400-4C99-8F95-8DA416FB5F0F"
+    },
+    {
+      "class": "rectangle",
+      "id": "BF419F26-8FD6-49FA-BA8E-C385C3114BE9"
+    },
+    {
+      "class": "rectangle",
+      "id": "85701ADA-E2FB-481C-BF16-AF587B08AC24"
+    }
+  ],
+  "name": "颜色/银行logo色/广发银行",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E1CE11F1-04E9-4F6F-890E-DA2E6BD29976",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 33.9,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0C26A9D5-BCCF-4E50-B523-60329A2D59AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

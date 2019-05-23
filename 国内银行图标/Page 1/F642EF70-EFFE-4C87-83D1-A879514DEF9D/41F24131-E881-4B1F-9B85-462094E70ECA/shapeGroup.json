@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41F24131-E881-4B1F-9B85-462094E70ECA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51C524D2-9DB0-4A43-B1A6-78E0859222E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27A0527C-622A-41AC-9920-9E41E3800122",
+    "height": 70,
+    "width": 67.58620689655173,
+    "x": 835.402298850574,
+    "y": 995
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6A2205F6-26EF-4690-B60B-64E9007C5358"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AB2518FF-E538-4C0B-931D-D0A41C93886A"
+    },
+    {
+      "class": "shapePath",
+      "id": "47B8730A-2CC3-4A98-9554-99C3C41CE49A"
+    },
+    {
+      "class": "shapePath",
+      "id": "6590B5AE-2CE5-4CF9-813D-032895A380C2"
+    }
+  ],
+  "name": "汉口银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B49FD4B-C6BD-422E-92A6-5F274AA5DE34",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6990500092506409,
+          "green": 0.5245690941810608,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

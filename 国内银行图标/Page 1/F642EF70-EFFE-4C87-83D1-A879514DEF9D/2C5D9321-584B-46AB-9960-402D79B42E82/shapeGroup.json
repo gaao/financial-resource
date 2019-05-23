@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C5D9321-584B-46AB-9960-402D79B42E82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5347DDBF-674B-44B4-9599-99BC83A4FB45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "915A1DD9-4D1A-4F87-AF52-89D498478BF5",
+    "height": 63.87,
+    "width": 68.268,
+    "x": 835,
+    "y": 2321
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3D69224C-D1CC-47FF-8DB4-977E948AEFD5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BF665587-6267-4E81-ACAB-A2FCA9B6D970"
+    },
+    {
+      "class": "shapePath",
+      "id": "159CF414-8360-4630-A8C2-25997D8EA7FD"
+    },
+    {
+      "class": "shapePath",
+      "id": "21F0844C-B695-40A8-9B79-42A22340E9FA"
+    }
+  ],
+  "name": "邮政储蓄银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50AFDD4A-9279-4DB1-B5C8-E4C93D2F975D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.243,
+          "green": 0.494,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

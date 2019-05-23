@@ -1,0 +1,108 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "335B5320-3908-4231-8AE9-5D1211D52D9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28A04EE5-E332-4712-8F5E-90B9704D85CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3188478D-792B-4B15-A1A6-12688A8E0EE8",
+    "height": 70,
+    "width": 71,
+    "x": 833,
+    "y": 2507
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "72F43518-18D6-4170-9405-5B05BDD36E97"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BDB078BA-3354-4FE7-AB48-54363FC17CE5"
+    },
+    {
+      "class": "shapePath",
+      "id": "D4DECB1C-081B-4A9F-9F9D-B7886093EB78"
+    },
+    {
+      "class": "shapePath",
+      "id": "A61BE562-465E-4FC8-B524-53B4B02D49DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E095BA9-44AD-4619-8B23-644EDFAD9424"
+    },
+    {
+      "class": "shapePath",
+      "id": "DAF91C31-0DF1-4694-8101-DDA0BCD701A6"
+    },
+    {
+      "class": "shapePath",
+      "id": "9DF54FF2-83FF-4524-8DB2-B6E1DAC386FD"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4FA84BE-827D-4C76-B9A2-4410AF02719F"
+    },
+    {
+      "class": "shapePath",
+      "id": "318976F9-6E47-43DA-A94A-246D9882EF19"
+    },
+    {
+      "class": "shapePath",
+      "id": "20671D0C-3A2D-4122-AB88-10AFAAC6B793"
+    }
+  ],
+  "name": "招商银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D4CD310-51C8-4D61-845C-04CDE2767AFD",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1725490196078431,
+          "green": 0,
+          "red": 0.6980392156862745
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

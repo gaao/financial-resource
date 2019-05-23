@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C208E600-BC05-459A-8F8E-CC295ADF7329",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCEF0EA6-B516-46AD-B4F7-C00DACE49BFF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4E8CAED-97B9-4131-9D21-8F428175F356",
+    "height": 75,
+    "width": 1017,
+    "x": 977,
+    "y": 1466
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DFA4823A-957E-478D-9868-8A177FBE990F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D3673B08-B657-4162-974B-618898A80921"
+    },
+    {
+      "class": "rectangle",
+      "id": "0AEB7FD3-D2CF-4CB0-B451-2B511EEFDE58"
+    },
+    {
+      "class": "rectangle",
+      "id": "35B62858-45C0-49FD-8302-3827EB0159F8"
+    }
+  ],
+  "name": "颜色/银行logo色/江苏省农村信用社",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0F0CDA74-535F-421F-A299-08796EB53831",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 33.9,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0B7FABE2-A677-4D8C-ADEC-894A36077D1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

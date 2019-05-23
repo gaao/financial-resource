@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "66C58C8C-2FDA-4595-95B8-485A91E3B6C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26C02A16-F9FA-4F82-AFDF-5C31B1716BD9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AE23CACA-293D-40A6-87E4-BC19FDED51D1",
+    "height": 33,
+    "width": 70,
+    "x": 834,
+    "y": 634
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "23AB186E-82E7-495D-8252-0F34145FC8E9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EF6858CD-E1D5-4077-B92F-E16C590AE33B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD99D667-C479-4B78-8A5F-E794EFC8B6DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFBA74DC-7E51-4C1C-82D8-76504A565A08"
+    },
+    {
+      "class": "shapePath",
+      "id": "4219158C-5FFA-47FA-ACF5-352E0610AD27"
+    }
+  ],
+  "name": "光大银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "725D935F-3D51-47A2-9186-D97D6AE7071C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

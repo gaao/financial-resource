@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "71014B78-2E89-4901-88C2-96B1F4C99711",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5C2D07D-23F0-4289-87BC-900E2A5C780F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C64866F3-9FEC-40DC-BA7E-47E5744E63D2",
+    "height": 68,
+    "width": 71,
+    "x": 834,
+    "y": 2035
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "691FCDEE-BEE7-43AE-8400-B329BDE513D7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4FECE33C-B13E-4F27-BFA1-84F8FFEB2A8C"
+    },
+    {
+      "class": "shapePath",
+      "id": "400D6845-5A97-4969-8A55-DF0A3DDB1C66"
+    },
+    {
+      "class": "shapePath",
+      "id": "CFA45541-8C43-4399-A256-54D3ABBBE42E"
+    },
+    {
+      "class": "shapePath",
+      "id": "EF051E54-6ED3-47D9-854F-6D13FCD24E25"
+    },
+    {
+      "class": "shapePath",
+      "id": "664E4DA1-986D-4704-A816-F6B5B8E93574"
+    },
+    {
+      "class": "shapePath",
+      "id": "F343E501-E6F9-43C7-B228-E64C30B54DE1"
+    },
+    {
+      "class": "shapePath",
+      "id": "707EE3C6-A590-46FA-828B-3C25D3DB8C82"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6E95456-6C7F-4CED-A26F-BA8C082F0972"
+    },
+    {
+      "class": "shapePath",
+      "id": "52A2F8F5-ECF6-4DC8-BE8D-3B8F810C1F2D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A013F4BC-F54C-48EA-BDA5-19DEA51E6BD2"
+    },
+    {
+      "class": "shapePath",
+      "id": "E1E04B83-8F48-4F42-A28A-1D194BB4136A"
+    },
+    {
+      "class": "shapePath",
+      "id": "0AA9D60F-40A7-401D-B930-61FE916F2345"
+    },
+    {
+      "class": "shapePath",
+      "id": "D437FBDD-4A07-4829-8158-3DC51A894A6B"
+    }
+  ],
+  "name": "山东省农村信用社",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74765D60-1944-42FE-82B7-FDCB46810175",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

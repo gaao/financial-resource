@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "838A19B0-2DDD-4F50-9266-A9EDEED8C9F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1146FD9-8857-45C8-8108-6AD481E4A0BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CEE0775F-6175-473D-B7C4-331331DAFCA9",
+    "height": 68.31257575757574,
+    "width": 69.36246153846153,
+    "x": 834.000323076923,
+    "y": 2602.060606060606
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D59B5728-945A-4C98-B30E-02ABD069BA30"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3B6346CA-40DD-45E5-8BFA-60E5A048D497"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D3ABBE0-9793-412D-BAAC-AFD2896AB1DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85CEB1E7-8630-4594-8444-DCC978CC65B3"
+    }
+  ],
+  "name": "中国工商银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5E4480A-A12F-4E70-91E5-D9C9F4DAF960",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.145,
+          "green": 0.169,
+          "red": 0.769
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

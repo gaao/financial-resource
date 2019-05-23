@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "61917541-EDE2-40DD-862D-3A09CBC1B2E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0DCBF7B-CCFF-4FF8-9A72-3DFBE9829E64",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "039A9602-17CA-4ECC-A136-9B83518B3203",
+    "height": 66,
+    "width": 65,
+    "x": 837,
+    "y": 524
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A3AFF018-B591-41B2-A962-304E40A8B506"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3E62DA01-692A-4443-9FCA-1A0E64935398"
+    },
+    {
+      "class": "shapePath",
+      "id": "DE7A9D14-7D7E-451E-A7BF-CDE39F91BBD6"
+    },
+    {
+      "class": "shapePath",
+      "id": "DD80926B-3142-4832-B3BD-406DBF437F05"
+    },
+    {
+      "class": "shapePath",
+      "id": "96075F84-D64A-4538-A3DA-C1E2F3C30FCA"
+    }
+  ],
+  "name": "东莞农村商业银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C92552EC-06A7-487B-8529-FE3AA2C41F9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

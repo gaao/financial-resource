@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C666DCE-65DE-41F6-BA5D-8F072CD9FF16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E22C3034-FAD2-406B-9AFD-588D42C80E9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B1EFE1CD-DAC4-4874-8B7C-82C789A50740",
+    "height": 70,
+    "width": 70,
+    "x": 834,
+    "y": 333
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DDC737CC-8D68-42F6-911D-52644BE5F0B4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1513B4C9-EDAC-47DF-A809-BB654B932F8D"
+    },
+    {
+      "class": "shapePath",
+      "id": "31ED42E8-3562-45E6-A4D7-F6BE7BF98318"
+    }
+  ],
+  "name": "安徽省农村信用社",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B94B850D-889B-46CF-92D3-5A992698643E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

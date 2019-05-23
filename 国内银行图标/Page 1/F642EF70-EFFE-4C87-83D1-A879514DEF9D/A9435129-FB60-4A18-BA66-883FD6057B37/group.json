@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9435129-FB60-4A18-BA66-883FD6057B37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76D88B7E-E26B-42D1-A6B4-4B9674550D22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C0EF517-9E43-47B8-8369-CF5529AB22E9",
+    "height": 70,
+    "width": 70,
+    "x": 834,
+    "y": 1467
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "69326432-C1A3-4EF1-A00B-3B8318334881"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DFCB7B1B-75F3-48DF-A5C3-8CA556AFB616"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCFDD709-339C-4E97-8D2F-BB130A600492"
+    },
+    {
+      "class": "shapePath",
+      "id": "4ACC3367-2C60-45D6-85EF-6A23856DB46B"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2C0AA34-6745-4511-97A7-60BC7BC94D68"
+    }
+  ],
+  "name": "江苏省农村信用社",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB0E67EF-1399-469E-9084-5F4B26091CF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F979CDE-83A8-45B4-9FCB-4D0AB9DE0131",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E942D198-3DB8-43EF-823F-EB6CEC0C3459",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B771569-9FB2-423C-9FD7-08FCEE2AB095",
+    "height": 69.66254335260116,
+    "width": 69.66213872832371,
+    "x": 834,
+    "y": 1184.404624277457
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "937A17F3-37A6-459D-9149-A641F80B4D55"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6E9D3623-76F7-4EE3-AA74-29E674D97912"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3C977D0-08AA-4231-8300-6F205784C813"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "003ECDE5-BBBA-474D-9BC1-48E30046116B"
+    }
+  ],
+  "name": "华融湘江银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DC88371-8D98-44D9-AFCC-445416659616",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0.859
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

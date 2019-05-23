@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "07D98F07-A6E1-4F41-AC60-3320F8720DDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A4BB668-F5FC-419D-B355-7F0723A65F17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D388920A-CA39-47B0-828B-BCE908AA8431",
+    "height": 61,
+    "width": 65,
+    "x": 834,
+    "y": 1283
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3B60F94B-3E05-4FDC-A4FA-639E2E043778"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "685DE588-5B10-447E-98C1-A197B63C9944"
+    },
+    {
+      "class": "shapePath",
+      "id": "9C658854-5DED-4A82-A3F7-4F078EF7E55B"
+    }
+  ],
+  "name": "华夏银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43C02E92-197A-40E3-B381-E47557BFD736",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
