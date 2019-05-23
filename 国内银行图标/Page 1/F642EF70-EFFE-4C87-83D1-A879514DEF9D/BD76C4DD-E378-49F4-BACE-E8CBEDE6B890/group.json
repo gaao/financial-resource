@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -64,8 +64,8 @@
       "id": "7BDD4FCC-1704-462B-8122-C2828C91090D"
     }
   ],
-  "name": "分组",
-  "nameIsFixed": false,
+  "name": "广发银行",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

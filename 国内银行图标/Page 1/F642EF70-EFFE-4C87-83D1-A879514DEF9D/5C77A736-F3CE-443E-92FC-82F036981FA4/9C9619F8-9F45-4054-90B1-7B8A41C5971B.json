@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
+  "name": "颜色/银行logo色/中国建设银行",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -81,13 +81,13 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "92CFFBBF-4557-4AD3-82E3-C63B2744123C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "A43E4378-AAEB-4ACE-973F-C7135707D6C2",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 33.9,

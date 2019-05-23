@@ -33,8 +33,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
-  "nameIsFixed": false,
+  "name": "颜色/银行logo色/广发银行2",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
@@ -81,13 +81,13 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "B6AD3A50-A9B1-4A86-99C4-C409F5EB5A81",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "D25BBCE1-902E-48C9-BC44-B94DF1D76E1C",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 33.9,

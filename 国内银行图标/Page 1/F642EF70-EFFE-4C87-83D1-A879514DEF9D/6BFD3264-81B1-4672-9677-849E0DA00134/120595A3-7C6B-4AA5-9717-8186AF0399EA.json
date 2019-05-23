@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
+  "name": "颜色/银行logo色/广州银行",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -81,13 +81,13 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "DE9E6EEB-5350-4195-88CA-5B2127809CDB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "49A25E4E-C047-41B4-A390-A52FECDB9D1E",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 33.9,

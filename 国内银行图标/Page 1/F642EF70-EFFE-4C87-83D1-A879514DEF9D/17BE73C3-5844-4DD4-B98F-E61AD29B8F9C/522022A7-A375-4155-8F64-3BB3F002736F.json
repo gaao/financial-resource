@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
+  "name": "颜色/银行logo色/邮政储蓄银行",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -81,13 +81,13 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "AFFB364A-7D53-45F6-83C3-8E0C80546B0C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "9FBD4600-C24A-4D9D-8805-ECD6507D668D",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 33.9,

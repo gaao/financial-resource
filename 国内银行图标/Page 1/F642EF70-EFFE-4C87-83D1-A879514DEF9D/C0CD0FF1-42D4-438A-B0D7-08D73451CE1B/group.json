@@ -40,156 +40,16 @@
       "id": "786A96A3-92EB-427A-A23E-AF29A6CDFE9E"
     },
     {
-      "class": "shapePath",
-      "id": "6E6A7599-5653-44DD-A7D7-B7D3B81DDC53"
-    },
-    {
-      "class": "shapePath",
-      "id": "D0530C14-A7CD-4D42-AD8F-D8BF9A7A789B"
+      "class": "shapeGroup",
+      "id": "14277DBF-4767-4A49-9669-EEE28E670219"
     },
     {
       "class": "shapePath",
       "id": "2F358279-500A-4D6A-A7EC-DFB186001356"
     },
     {
-      "class": "shapePath",
-      "id": "2DF566EB-7853-4532-95BF-A3B13FFCF431"
-    },
-    {
-      "class": "shapePath",
-      "id": "253C24CC-7499-49B1-92DF-BCE51F6DE6C3"
-    },
-    {
-      "class": "shapePath",
-      "id": "92783326-E25B-4835-B5F2-573E2758BD27"
-    },
-    {
-      "class": "shapePath",
-      "id": "DFCC98CF-6B57-40B0-A618-7AEDE6DBFD8B"
-    },
-    {
-      "class": "shapePath",
-      "id": "FAEF7CDD-3FF0-4A88-94F9-F5586730A7D5"
-    },
-    {
-      "class": "shapePath",
-      "id": "143681A1-2DA4-4A4C-895C-BC936F4271FB"
-    },
-    {
-      "class": "shapePath",
-      "id": "08B0071A-D202-4D49-A334-EE31A6C3B411"
-    },
-    {
-      "class": "shapePath",
-      "id": "A637F9C9-85C9-47ED-92CC-F2EE9A3BF01D"
-    },
-    {
-      "class": "shapePath",
-      "id": "7D83EF74-3AF6-4A32-A05E-1D39BC79F75F"
-    },
-    {
-      "class": "shapePath",
-      "id": "C2674A75-0E6A-4F6C-85BF-2E1567CD6285"
-    },
-    {
-      "class": "shapePath",
-      "id": "3E72C2D0-DE2B-4C1B-88AD-BABE66821FD0"
-    },
-    {
       "class": "shapeGroup",
-      "id": "327AA09B-7412-4B8B-AE85-A4D64AA701DB"
-    },
-    {
-      "class": "shapePath",
-      "id": "9FCB5584-7186-4543-9004-B6CD1149D568"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "36E33625-9D86-4A80-A4A6-43E165A11E16"
-    },
-    {
-      "class": "shapePath",
-      "id": "88CBBADB-ADAC-4B04-84E7-32BA9570CD91"
-    },
-    {
-      "class": "shapePath",
-      "id": "9CA7DEE2-8E06-4E30-90A5-3A5EBB430089"
-    },
-    {
-      "class": "shapePath",
-      "id": "97A2300B-C676-4D03-B319-A2241B07EAB6"
-    },
-    {
-      "class": "shapePath",
-      "id": "292B016B-5564-400E-A644-104B26494E51"
-    },
-    {
-      "class": "shapePath",
-      "id": "43F07282-1BD8-44E9-A8DE-BE448D585493"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FC6B7AE4-54E9-4461-A8A4-29CF80020F7D"
-    },
-    {
-      "class": "shapePath",
-      "id": "13C96FAF-F4AE-4F64-B1A2-67F55FFDDCAB"
-    },
-    {
-      "class": "shapePath",
-      "id": "122C898A-73DC-4FC2-A9BF-7F42D24AC265"
-    },
-    {
-      "class": "shapePath",
-      "id": "A69C6D17-C585-4669-A51D-98760AB810BF"
-    },
-    {
-      "class": "shapePath",
-      "id": "88F7EAF1-916A-490B-95C0-E72C9B5B89C7"
-    },
-    {
-      "class": "shapePath",
-      "id": "FFF9949D-0E50-45BE-8857-360FD6403852"
-    },
-    {
-      "class": "shapePath",
-      "id": "F7D9601B-0E7E-49FF-9855-47D4BB35001B"
-    },
-    {
-      "class": "shapePath",
-      "id": "147EE595-77E5-4AA5-B4F1-70C10997E73F"
-    },
-    {
-      "class": "shapePath",
-      "id": "6685E867-2AAE-4DE1-B281-C3EE7B71C74B"
-    },
-    {
-      "class": "shapePath",
-      "id": "17A5D9CA-1F49-4109-B7F0-7FEFCAB3A84F"
-    },
-    {
-      "class": "shapePath",
-      "id": "9C159E95-BB07-4DA2-9202-7B26DB12F5F7"
-    },
-    {
-      "class": "shapePath",
-      "id": "4BCD4222-7887-457C-9195-EA291051FAFA"
-    },
-    {
-      "class": "shapePath",
-      "id": "3663A4FC-A474-4C8E-9BFD-322BDDE1AD1D"
-    },
-    {
-      "class": "shapePath",
-      "id": "CDB572B1-CBED-4BBC-8FD9-2508FC12798E"
-    },
-    {
-      "class": "shapePath",
-      "id": "A6BC93B6-1DA0-4A8C-B01D-014D93B80177"
-    },
-    {
-      "class": "shapePath",
-      "id": "2D78EBEC-406E-4CCB-990E-3090098C4AA1"
+      "id": "F5C53A2F-F0C1-4402-856D-26E811BDD69F"
     }
   ],
   "name": "四川省农村信用社",

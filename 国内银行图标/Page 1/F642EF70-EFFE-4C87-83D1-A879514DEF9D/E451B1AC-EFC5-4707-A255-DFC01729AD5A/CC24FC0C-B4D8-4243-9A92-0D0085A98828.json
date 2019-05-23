@@ -33,8 +33,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
-  "nameIsFixed": false,
+  "name": "颜色/银行logo色/光大银行黄",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
@@ -81,13 +81,13 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "BDF189BF-8C8C-4524-B567-DA67326866A2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "7DE297CE-75DF-4F54-BCFB-1EE35BB39165",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 33.9,

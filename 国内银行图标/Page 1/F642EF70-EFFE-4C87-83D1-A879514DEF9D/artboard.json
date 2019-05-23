@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -240,6 +240,10 @@
     {
       "class": "group",
       "id": "B788BB8F-1FD0-460F-875F-9160EDA7561C"
+    },
+    {
+      "class": "group",
+      "id": "10BAB851-E167-4DE5-9A64-2D84A8567738"
     },
     {
       "class": "group",

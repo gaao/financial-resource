@@ -18,7 +18,7 @@
     "constrainProportions": true,
     "do_objectID": "C64866F3-9FEC-40DC-BA7E-47E5744E63D2",
     "height": 68,
-    "width": 71,
+    "width": 70,
     "x": 834,
     "y": 2035
   },
@@ -33,59 +33,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "4FECE33C-B13E-4F27-BFA1-84F8FFEB2A8C"
+      "class": "shapeGroup",
+      "id": "3A648504-BD1F-4A5B-BD94-331E2C0CA6DC"
     },
     {
-      "class": "shapePath",
-      "id": "400D6845-5A97-4969-8A55-DF0A3DDB1C66"
-    },
-    {
-      "class": "shapePath",
-      "id": "CFA45541-8C43-4399-A256-54D3ABBBE42E"
-    },
-    {
-      "class": "shapePath",
-      "id": "EF051E54-6ED3-47D9-854F-6D13FCD24E25"
-    },
-    {
-      "class": "shapePath",
-      "id": "664E4DA1-986D-4704-A816-F6B5B8E93574"
-    },
-    {
-      "class": "shapePath",
-      "id": "F343E501-E6F9-43C7-B228-E64C30B54DE1"
-    },
-    {
-      "class": "shapePath",
-      "id": "707EE3C6-A590-46FA-828B-3C25D3DB8C82"
-    },
-    {
-      "class": "shapePath",
-      "id": "C6E95456-6C7F-4CED-A26F-BA8C082F0972"
-    },
-    {
-      "class": "shapePath",
-      "id": "52A2F8F5-ECF6-4DC8-BE8D-3B8F810C1F2D"
-    },
-    {
-      "class": "shapePath",
-      "id": "A013F4BC-F54C-48EA-BDA5-19DEA51E6BD2"
-    },
-    {
-      "class": "shapePath",
-      "id": "E1E04B83-8F48-4F42-A28A-1D194BB4136A"
-    },
-    {
-      "class": "shapePath",
-      "id": "0AA9D60F-40A7-401D-B930-61FE916F2345"
-    },
-    {
-      "class": "shapePath",
-      "id": "D437FBDD-4A07-4829-8158-3DC51A894A6B"
+      "class": "shapeGroup",
+      "id": "43D69B02-16DD-4832-8AB0-446D6EC96E69"
     }
   ],
   "name": "山东省农村信用社",
@@ -105,6 +61,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 68,
+            "enabled": 1,
+            "modelID": "constraint_a7d13c31-6687-4b65-8be4-e4e8adead7e8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 70
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_cc1087ca-ba4f-4558-84fd-fad386f79f1f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
       }
     }
   }

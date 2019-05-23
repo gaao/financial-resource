@@ -33,8 +33,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形 copy 18",
-  "nameIsFixed": false,
+  "name": "颜色/银行logo色/江苏省农村信用社红",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
@@ -81,13 +81,13 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7BA6F2C1-C985-4BAC-BD9C-0FC650FB3DCB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "55101764-9C79-48E2-A3C8-5F9A5D2F104D",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 33.9,

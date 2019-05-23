@@ -349,9 +349,19 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "40C5985B-9888-4A50-8BDC-D1BDCBF9F45C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 33.9,
+      "saturation": 1,
+      "type": 0
+    },
     "do_objectID": "722E6D01-49DE-459F-80A8-4B4741CCA681",
     "endMarkerType": 0,
     "fills": [
@@ -360,9 +370,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1267659664154053,
-          "green": 0.1893633902072906,
-          "red": 0.8854799866676331
+          "blue": 0.1254901960784314,
+          "green": 0.1882352941176471,
+          "red": 0.8862745098039215
         },
         "fillType": 0,
         "isEnabled": true,

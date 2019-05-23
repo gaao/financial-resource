@@ -33,8 +33,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "85701ADA-E2FB-481C-BF16-AF587B08AC24"
+    },
     {
       "class": "rectangle",
       "id": "FD84D090-2400-4C99-8F95-8DA416FB5F0F"
@@ -42,10 +46,6 @@
     {
       "class": "rectangle",
       "id": "BF419F26-8FD6-49FA-BA8E-C385C3114BE9"
-    },
-    {
-      "class": "rectangle",
-      "id": "85701ADA-E2FB-481C-BF16-AF587B08AC24"
     }
   ],
   "name": "颜色/银行logo色/广发银行",

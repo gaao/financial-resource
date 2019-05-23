@@ -33,8 +33,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
-  "nameIsFixed": false,
+  "name": "颜色/银行logo色/民生银行绿",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
@@ -81,13 +81,13 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "022084BB-E21E-4194-AE2B-3C107BF33D7B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "68DB654E-06D2-4A5F-A526-60D9EBAEE3B0",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 33.9,
