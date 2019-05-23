@@ -1,0 +1,88 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B02D6DA0-DA5D-47D9-95BA-E0556F0A43A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "484C5BD8-DCB2-4187-A67E-FD1B150FF150",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F68EF764-0EEE-44BE-9247-E855D485ADA8",
+    "height": 69.81608735993822,
+    "width": 69.83285587309796,
+    "x": 833.999684280134,
+    "y": 2884.999416666667
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "779E15B4-3EAE-4C87-B34C-E82F94A6D201"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BB8EC17D-4E2B-4279-BABB-44DC5F1BEEFE"
+    },
+    {
+      "class": "shapePath",
+      "id": "20DE0A03-2478-4E76-BE18-81F5693506EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "E797F2F2-4DA7-4429-8940-0043C4CBF792"
+    },
+    {
+      "class": "shapePath",
+      "id": "BBC91B64-DB26-42F6-A002-B050925C97A8"
+    }
+  ],
+  "name": "中国银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F17A884-C0FA-4B23-8791-A135538BA56A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.204,
+          "green": 0.141,
+          "red": 0.686
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

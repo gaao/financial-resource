@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DB288F3-88B1-4DD2-9D8F-E32282101785",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88A05D47-A295-4E8E-B8E5-4F6E9D5699F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B7DBD24-C773-46D4-B81F-0669BE4B3B28",
+    "height": 39,
+    "width": 66,
+    "x": 836,
+    "y": 1767
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F307C477-1164-42A9-B2F3-2931A7A1BE06"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "54217F41-359B-4A31-8752-941C333C634C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8202F7FF-4A22-4DB0-81EE-ABEBCAEF88B7"
+    }
+  ],
+  "name": "平安银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BCB52D2A-F6AA-4ED1-B516-5F6B67029F1D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.18,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "60E987BD-BEB2-41C7-B934-91BCDD739EF6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4663B314-5D55-415E-A08C-F95259C57244",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA9E5FBF-307B-487F-8613-E82F2346332C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A35B9507-1BC9-4233-A8A7-EF4A1B9D04DB",
+    "height": 61.05539999999999,
+    "width": 69.90339999999999,
+    "x": 834.0009799999989,
+    "y": 1848.9993
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "95425B6B-DB10-451B-863E-31748310042A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7E6B8A77-193B-4329-A6E6-72E6215BC93A"
+    },
+    {
+      "class": "shapePath",
+      "id": "4C46C94C-6BF5-466A-99A1-310B4F789478"
+    },
+    {
+      "class": "shapePath",
+      "id": "384C2B3C-4FED-4297-9615-F2A516C26727"
+    },
+    {
+      "class": "shapePath",
+      "id": "768131D2-7627-4352-A5DB-78D7C705C453"
+    },
+    {
+      "class": "shapePath",
+      "id": "31D5D68C-A2E4-4B39-9737-EAD9883E5C2A"
+    },
+    {
+      "class": "shapePath",
+      "id": "82B80D57-9A65-4BED-9519-A2E23ADECB2F"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9EE5D76-8087-4279-B081-A374D264A2D8"
+    }
+  ],
+  "name": "浦发银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15BB5FDE-CF15-49F1-89E1-894016EA20EB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.506,
+          "green": 0.184,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

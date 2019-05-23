@@ -1,0 +1,215 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A52F2B88-2D28-4EE7-B721-0578BCFD9CD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53FAA1D5-C0BC-436D-B44C-D98699C7D565",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "94254766-7A11-4D00-9EB1-D294B3CD264C",
+    "height": 70,
+    "width": 70,
+    "x": 834,
+    "y": 2129
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "687A0C6D-03D9-4B8D-8E26-09DD657389B7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "399DE168-9221-4FBD-906A-FE5B7B593C30"
+    },
+    {
+      "class": "shapePath",
+      "id": "5C54BB75-C3AA-4CC7-A4D8-C51D009417F1"
+    },
+    {
+      "class": "shapePath",
+      "id": "956B6391-DFD4-41D2-9B72-3B9EB8A63615"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA22E082-8B44-4E50-927B-17644C3F845F"
+    },
+    {
+      "class": "shapePath",
+      "id": "FC54B821-80C3-46AF-85B5-7C1AB8D064A9"
+    },
+    {
+      "class": "shapePath",
+      "id": "933E5E04-6AD5-4518-AF7C-534F7DD4D7B6"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB12D554-6D75-412E-A0E2-F6B2E9E3C77F"
+    },
+    {
+      "class": "shapePath",
+      "id": "E9D6B9E5-5ACF-49D2-B9BA-7DA8FAB2620E"
+    },
+    {
+      "class": "shapePath",
+      "id": "29036AC3-44B6-4EB0-88C9-0855C3C194C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF66289A-B962-4DF3-ADB5-6B2195BC5E25"
+    },
+    {
+      "class": "shapePath",
+      "id": "461F3A9E-E2A0-4C32-B43B-0E74431CC255"
+    },
+    {
+      "class": "shapePath",
+      "id": "99B6D1B4-7A8F-492A-B54D-FFE979075953"
+    },
+    {
+      "class": "shapePath",
+      "id": "EF1754F7-5B7A-4D04-8C60-E5375C72420C"
+    },
+    {
+      "class": "shapePath",
+      "id": "4BAFD707-6B7E-42E7-9CC0-56AA6818931A"
+    },
+    {
+      "class": "shapePath",
+      "id": "C5F1AE92-99BE-493F-90FD-D5F02B827645"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62596D4C-DC67-4D03-9B4B-C24F1A736D13"
+    },
+    {
+      "class": "shapePath",
+      "id": "82331963-7236-4924-8A6F-0805E8EFCB0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC0B9643-8CE8-4781-B748-E247B25328D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "1DB168B1-6455-4471-A3C5-F506FD56BB15"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8AB1938-D000-4DCF-9EB2-B84419E73418"
+    },
+    {
+      "class": "shapePath",
+      "id": "E218F98E-5456-4B76-AAFD-82002C7CCC24"
+    },
+    {
+      "class": "shapePath",
+      "id": "46EBB3B1-BF28-4216-8AE1-7317075890DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "70FCCAE1-1196-4338-A929-275E807AF78B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C6F6F966-CF9D-45A2-86D4-2B9648DE0EE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D38E67A2-F918-4C4D-8D27-7895FBADDA12"
+    },
+    {
+      "class": "shapePath",
+      "id": "E441A20B-9FE5-45AE-A773-CA3565D936B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "94A0AD82-F380-46CD-AC67-71BD9781C460"
+    },
+    {
+      "class": "shapePath",
+      "id": "2DE75105-CD41-4374-8416-DAE213983F72"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B212C93-9712-4241-AB82-D203D8E29D20"
+    },
+    {
+      "class": "shapePath",
+      "id": "027191FD-A43B-4772-81F7-4B1715FF587F"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B7A4447-A55A-4653-A22A-3C226A93C33F"
+    },
+    {
+      "class": "shapePath",
+      "id": "5AAD0AAE-476C-4746-AC4C-B6EB7863DEB9"
+    },
+    {
+      "class": "shapePath",
+      "id": "EC64295B-18BA-426B-9A94-894060D31370"
+    },
+    {
+      "class": "shapePath",
+      "id": "83E48D02-3E86-4ABA-91C8-78393DA1DF1D"
+    },
+    {
+      "class": "shapePath",
+      "id": "01F40172-317D-48DC-A2AC-49A34EA85BE4"
+    },
+    {
+      "class": "shapePath",
+      "id": "01356D72-F095-463C-85AF-DEB2E367696A"
+    },
+    {
+      "class": "shapePath",
+      "id": "ECCEA293-7627-41C1-B0A8-D797C72F6546"
+    },
+    {
+      "class": "shapePath",
+      "id": "D193558C-BA46-4461-9660-E0EE21ED32F9"
+    },
+    {
+      "class": "shapePath",
+      "id": "9F586BC0-EA60-40C4-9D91-58C414AA2B9F"
+    }
+  ],
+  "name": "四川省农村信用社",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBC69CB5-4ECE-41D2-9C44-CED96FCD0974",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

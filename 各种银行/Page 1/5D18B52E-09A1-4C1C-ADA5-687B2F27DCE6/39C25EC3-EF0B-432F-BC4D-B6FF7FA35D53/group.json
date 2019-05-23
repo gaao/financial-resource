@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39C25EC3-EF0B-432F-BC4D-B6FF7FA35D53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD43ED1A-AE2F-4D72-8D8D-4BA30FC1FE0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B8B91C9-7DF6-405E-8CF7-742EFB0BE5E8",
+    "height": 78,
+    "width": 1017,
+    "x": 977,
+    "y": 2975
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FC48122A-2411-4B75-AAAB-9F65E47B8AAA"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4AA9A0B5-4F9E-4EF5-B33D-3A67B91DC49C"
+    }
+  ],
+  "name": "颜色/银行logo色/中信银行",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1A798818-4117-4E66-AB42-35B75C7CB07B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 33.9,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5E3B59F3-5828-4826-9D3E-992A235B3ED7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

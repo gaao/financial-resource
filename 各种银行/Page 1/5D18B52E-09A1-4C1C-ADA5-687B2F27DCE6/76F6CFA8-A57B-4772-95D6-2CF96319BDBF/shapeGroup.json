@@ -1,0 +1,88 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76F6CFA8-A57B-4772-95D6-2CF96319BDBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE8263C9-BB3D-4FDC-AB46-5C45D06526A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "353CA8A8-C1C5-47A9-BF17-3DF05FE94ED5",
+    "height": 70,
+    "width": 70,
+    "x": 834,
+    "y": 1088.999810810811
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E6027B0A-3D54-450F-BBE8-CDC950A8140F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D69FABE0-7AA7-47A4-ADAF-99565868DF8B"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B17F9E8-F509-4F48-A9AF-8EE483726F49"
+    },
+    {
+      "class": "shapePath",
+      "id": "DE31E2D4-452D-4701-A5ED-00B2353A7862"
+    },
+    {
+      "class": "shapePath",
+      "id": "81084D6F-DF84-4E1B-A702-A1C07698D4E3"
+    }
+  ],
+  "name": "湖南省农村信用社",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C3966A9-932F-4E90-9CBF-4B0BE434D5F1",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.07100000000000001,
+          "green": 0,
+          "red": 0.898
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

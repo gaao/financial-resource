@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AFE056D-C660-4D52-B253-A63014DE032C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E20885E4-5291-4DD4-91D0-1FEF9C1E7FA6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F505BCE5-2BFB-42D2-AD66-2827639B2A7F",
+    "height": 69.01571346812977,
+    "width": 69.3637450339723,
+    "x": 833.999512511697,
+    "y": 2790.000593220339
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "566D5A04-3223-4684-959A-DCF7C5F1406B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6924DDB4-8153-4BFC-B8E2-178419B4D9DC"
+    },
+    {
+      "class": "shapePath",
+      "id": "4479C8F1-8E07-4EC2-896E-449B17DAFDB2"
+    }
+  ],
+  "name": "中国农业银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07FAF7AB-F41F-4E70-AE52-A5DEC92C7716",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.588,
+          "green": 0.612,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

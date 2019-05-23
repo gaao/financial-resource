@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CADE9214-8955-4B63-8429-5F634396616B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F88EEA9-6B7B-4D3D-940C-321C49F9B9E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1649548B-A15A-454A-B078-467C884C8149",
+    "height": 55,
+    "width": 71,
+    "x": 834,
+    "y": 1664
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "36045A55-54B5-4F16-A5C4-D7D20FBE0A7F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "909EC53B-E17D-48B3-A56E-C4ADE5B6640A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8081F9B9-4839-4552-AE53-110A99CDA3C4"
+    }
+  ],
+  "name": "民生银行",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A3DEF5E-5E14-4F4F-A93E-6E460CF96CE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
